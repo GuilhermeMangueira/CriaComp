@@ -65,3 +65,32 @@
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/whip_original.png)
 
 
+## Equipamentos
+  1.[Armour Holographic](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_holographic%20%20cyberpunk_it150.png)
+   - Iterações: 250
+   - step_size: 0.014
+   - model: wikiart_16384
+   - texts: holographic | cyberpunk
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_original.jpg)
+  
+  2.[Armour Translucent](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_translucent%20%20invisible-armor_it250.png)
+   - Iterações: 250
+   - step_size: 0.018
+   - model: wikiart_16384
+   - texts: translucent | invisible armor
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_original.jpg)
+
+  3.[Boots](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/boots_4k-image-of-boots-made-of-scales_it80.jpg)
+   - Iterações: 200
+   - step_size: 0.01
+   - model: wikiart_16384
+   - texts: 4k image of boots made of scales
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/boots_original.png)
+
+  4.[Shield Moss](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/shield_stone-shield-covered-in-moss_it225.jpg)
+   - Iterações: 250
+   - step_size: 0.02
+   - model: wikiart_16384
+   - texts: stone shield covered in moss
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/shield_original.jpg)
+
