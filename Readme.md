@@ -138,9 +138,9 @@
 
   4.[![Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_4k-image-of-ring-made-of-crystals_it30.jpg)]
    - iterações: 250
-   - step_size: 0.012
-   - model: wikiart_16384
-   - texts: ring made of smoke | oozing purple gas
+   - step_size: 0.1
+   - model: imagenet_16384
+   - texts: 4k image of ring made of crystals
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_original.png)
    
    5.[![Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/transparent-ring_typhoon-made-mist-photoillustration_it125.png)]
