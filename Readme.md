@@ -137,7 +137,7 @@
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/medallion_original.jpeg)
 
   4.[![Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_4k-image-of-ring-made-of-crystals_it30.jpg)]
-   - iterações: 250
+   - iterações: 30
    - step_size: 0.1
    - model: imagenet_16384
    - texts: 4k image of ring made of crystals
