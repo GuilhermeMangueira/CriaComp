@@ -16,6 +16,8 @@
     - 'max_iterations' é o numero de imagens que serão geradas no total
     - 'learning_rate' é o quanto as imagens evoluem entre cada geração. Valores baixos (0.01 por exemplo) geram resultados melhores que valores altos (0.3 por exemplo)
 
+> Para exemplos de keywords que melhoram muito a qualidade dos outputs veja https://imgur.com/a/SALxbQm
+
 # As imagens dessa galeria foram geradas usando as configurações abaixo
 
 ## Armas
