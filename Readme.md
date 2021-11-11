@@ -205,31 +205,25 @@
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/key_original.png)
    - seed: 1376
 
-   10.[Ring of smoke](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/ring_ring-made-of-smoke%20%20oozing-purple-gas_i200.png)
+  10.[Ring of smoke](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/ring_ring-made-of-smoke%20%20oozing-purple-gas_i200.png)
     - Iterações: 250
     - step_size: 0.012
     - model: wikiart_16384
     - texts: ring made of smoke | oozing purple gas
     - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/ring_original.jpg)
     
-    11.[Teacup](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/teacup_Mysterious%20hot%20tea%20smoke%20beverage_it100.png)
-    - iterações 200
-    - step_size:  0.1
-    - model: wikiart_16384
-    - texts: Mysterious hot tea smoke beverage
-    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/teacup_original.jpeg)
-    - seed: 1376
+  11.[Teacup](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/teacup_Mysterious%20hot%20tea%20smoke%20beverage_it100.png)
+   - iterações 200
+   - step_size:  0.1
+   - model: wikiart_16384
+   - texts: Mysterious hot tea smoke beverage
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/teacup_original.jpeg)
+   - seed: 1376
     
-    12.[Typewriter](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/typewriter_Typewriter%20Made%20of%20crystals%20Sunrays%20shine%20upon%20it_it50.png)
-    - iterações 200
-    - step_size:  0.1
-    - model: wikiart_16384
-    - texts: Typewriter Made of crystals Sunrays shine upon it
-    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/typewriter_original.jpeg)
-    - seed: 1376
-
-
-
-
-
-
+  12.[Typewriter](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/typewriter_Typewriter%20Made%20of%20crystals%20Sunrays%20shine%20upon%20it_it50.png)
+   - iterações 200
+   - step_size:  0.1
+   - model: wikiart_16384
+   - texts: Typewriter Made of crystals Sunrays shine upon it
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/typewriter_original.jpeg)
+   - seed: 1376
