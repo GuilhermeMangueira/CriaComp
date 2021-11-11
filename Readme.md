@@ -21,7 +21,7 @@
 # As imagens dessa galeria foram geradas usando as configurações abaixo
 
 ## Armas
-  1.[Axe](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/axe_lava-axe-Quantum%20wavetracing_it100.png)
+  1.[![Axe](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/axe_lava-axe-Quantum%20wavetracing_it100.png)]
   - Iterações: 100
   - step_size: 0.03
   - model: imagenet_16384
@@ -29,7 +29,7 @@
   - seed: 42
   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/axe_original.png)
   
-  2.[Bow](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/bow_fire-bow%20and%20arrow%20in%20flames-Sunrays%20shine%20upon%20it_it150.png)
+  2.[![Bow](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/bow_fire-bow%20and%20arrow%20in%20flames-Sunrays%20shine%20upon%20it_it150.png)]
   - iterações: 150
   - step_size:  0.03
   - model: imagenet_16384
@@ -37,7 +37,7 @@
   - seed: 42
   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/bow_original.png)
 
-  3.[Bow Arrow](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/bow-arrow_wolf-matte-painting_it125.png)
+  3.[![Bow Arrow](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/bow-arrow_wolf-matte-painting_it125.png)]
   - Iterações: 125
   - step_size: 0.03
   - model: imagenet_16384
@@ -45,7 +45,7 @@
   - seed: 42
   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/bow-arrow_original.jpeg)
 
-  4.[Gun](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/gun_diamond-made-crystals-it57.png)
+  4.[![Gun](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/gun_diamond-made-crystals-it57.png)]
   - Iterações: 57
   - step_size: 0.03
   - model: imagenet_16384
@@ -53,28 +53,28 @@
   - seed: 42
   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/gun_original.jpg)
   
-  5.[Sword Fire](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_made-of-fire_it100.png)
+  5.[![Sword Fire](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_made-of-fire_it100.png)]
    - Iterações: 250
    - step_size: 0.03
    - model: wikiart_16384
    - texts: made of fire
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_original.jpg)
 
-  6.[Sword covered in fire](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_shiny-metal-blade-covered-in-fire_it100.png)
+  6.[![Sword covered in fire](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_shiny-metal-blade-covered-in-fire_it100.png)]
    - Iterações: 250
    - step_size: 0.03
    - model: wikiart_16384
    - texts: shiny metal blade covered in fire
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_original.jpg)
 
-  7.[Sword Lightning](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_sword-of-the-thunder-god%20%20lightning_it250.png)
+  7.[![Sword Lightning](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_sword-of-the-thunder-god%20%20lightning_it250.png)]
    - Iterações: 250
    - step_size: 0.03
    - model: wikiart_16384
    - texts: sword of the thunder god | lightning
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/sword_original.jpg)
   
-  8.[Whip](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/whip_snake%20whip-Marvel%20Comics_it100.png)
+  8.[![Whip](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/whip_snake%20whip-Marvel%20Comics_it100.png)]
    - Iterações: 100
    - step_size: 0.03
    - model: imagenet_16384
@@ -83,28 +83,28 @@
 
 
 ## Equipamentos
-  1.[Armour Holographic](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_holographic%20%20cyberpunk_it150.png)
+  1.[![Armour Holographic](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_holographic%20%20cyberpunk_it150.png)]
    - Iterações: 250
    - step_size: 0.014
    - model: wikiart_16384
    - texts: holographic | cyberpunk
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_original.jpg)
   
-  2.[Armour Translucent](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_translucent%20%20invisible-armor_it250.png)
+  2.[![Armour Translucent](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_translucent%20%20invisible-armor_it250.png)]
    - Iterações: 250
    - step_size: 0.018
    - model: wikiart_16384
    - texts: translucent | invisible armor
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/armour_original.jpg)
 
-  3.[Boots](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/boots_4k-image-of-boots-made-of-scales_it80.jpg)
+  3.[![Boots](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/boots_4k-image-of-boots-made-of-scales_it80.jpg)]
    - Iterações: 200
    - step_size: 0.01
    - model: wikiart_16384
    - texts: 4k image of boots made of scales
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/boots_original.png)
 
-  4.[Shield Moss](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/shield_stone-shield-covered-in-moss_it225.jpg)
+  4.[![Shield Moss](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/shield_stone-shield-covered-in-moss_it225.jpg)]
    - Iterações: 250
    - step_size: 0.02
    - model: wikiart_16384
@@ -113,7 +113,7 @@
 
 ## Acessórios
 
-  1.[Belt](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/belt_iron-holographic_it200.png)
+  1.[![Belt](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/belt_iron-holographic_it200.png)]
   - Iterações: 200
   - step_size: 0.03
   - model: imagenet_16384
@@ -121,14 +121,14 @@
   - seed: 42
   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/belt_original.jpeg)
 
-  2.[Crown of Vines](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/crown_4k-image-of_crown-made-of-branches-and-gemstones_30.png)
+  2.[![Crown of Vines](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/crown_4k-image-of_crown-made-of-branches-and-gemstones_30.png)]
    - Iterações: 200
    - step_size: 0.01
    - model: wikiart_16384
    - texts: 4k image of crown made of branches and gemstones
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/crown_original.jpg)
    
-   3.[Medallion](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/medallion_Mysterious%20Medallion%20made%20of%20vines%20Wiccan_it25.png)
+   3.[![Medallion](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/medallion_Mysterious%20Medallion%20made%20of%20vines%20Wiccan_it25.png)]
    - iterações 200
    - step_size:  0.1
    - model: wikiart_16384
@@ -136,14 +136,14 @@
    - seed: 1376
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/medallion_original.jpeg)
 
-  4.[Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_4k-image-of-ring-made-of-crystals_it30.jpg)
+  4.[![Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_4k-image-of-ring-made-of-crystals_it30.jpg)]
    - iterações: 250
    - step_size: 0.012
    - model: wikiart_16384
    - texts: ring made of smoke | oozing purple gas
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_original.png)
    
-   5.[Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/transparent-ring_typhoon-made-mist-photoillustration_it125.png)
+   5.[![Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/transparent-ring_typhoon-made-mist-photoillustration_it125.png)]
    - Iterações: 125
    - step_size: 0.03
    - model: imagenet_16384
@@ -153,7 +153,7 @@
 
 ## Outros
 
-  1.[Alfaia](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/alfaia_earth-drum-made-vines_it150.png)
+  1.[![Alfaia](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/alfaia_earth-drum-made-vines_it150.png)]
    - Iterações: 150
    - step_size: 0.04
    - model: imagenet_16384
@@ -161,7 +161,7 @@
    - seed: 42
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/alfaia_original.jpg)
    
-   2.[Banjo](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/banjo_banjo%20ice%20machine-spikes-Skeuomorphic_it100.png)
+   2.[![Banjo](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/banjo_banjo%20ice%20machine-spikes-Skeuomorphic_it100.png)]
    - Iterações: 100
    - step_size: 0.03
    - model: imagenet_16384
@@ -169,7 +169,7 @@
    - seed: 42
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/banjo_original.png)
 
-   3.[Book iridiscent](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book-2_magical-book-iridescent_it50.png)
+   3.[![Book iridiscent](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book-2_magical-book-iridescent_it50.png)]
    - iterações 200
    - step_size:  0.1
    - model: wikiart_16384
@@ -177,28 +177,28 @@
    - seed: 1376
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book_original2.png)
 
-   4.[Book Aurora](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book2_cosmic%20%20aurora-borealis_it150.png)
+   4.[![Book Aurora](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book2_cosmic%20%20aurora-borealis_it150.png)]
    - Iterações: 250
    - step_size: 0.015
    - model: wikiart_16384
    - texts: cosmic | aurora borealis
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book2_original.jpg)
 
-   5.[Book Of dead](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book_4k-image-of-the-book-of-the-dead-by-HR-Geiger_it210.png)
+   5.[![Book Of dead](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book_4k-image-of-the-book-of-the-dead-by-HR-Geiger_it210.png)]
    - Iterações: 200
    - step_size: 0.01
    - model: wikiart_16384
    - texts: 4k image of the book of the dead by HR Geiger
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book_original.png)
 
-   6.[Book of Grass](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book_book-cover-made-of-grass_it200.png)
+   6.[![Book of Grass](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book_book-cover-made-of-grass_it200.png)]
    - Iterações: 250
    - step_size: 0.015
    - model: wikiart_16384
    - texts: book cover made of grass
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/book_original.jpg)
 
-   7.[Cassete Tape](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/cassettetape_Cassette%20tape%20Made%20of%20liquid%20metal%20holographic_it125.png)
+   7.[![Cassete Tape](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/cassettetape_Cassette%20tape%20Made%20of%20liquid%20metal%20holographic_it125.png)]
    - iterações 200
    - step_size:  0.1
    - model: wikiart_16384
@@ -206,7 +206,7 @@
    - seed: 1376
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/cassettetape_original.png)
 
-  8.[Floppy Disk](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/floppydisk_Mystical%20floppy%20disk%20flickering%20light_it150.png)
+  8.[![Floppy Disk](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/floppydisk_Mystical%20floppy%20disk%20flickering%20light_it150.png)]
    - iterações 200
    - step_size:  0.1
    - model: wikiart_16384
@@ -214,7 +214,7 @@
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/floopydisk_original.png)
    - seed: 1376
 
-   9.[Key](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/key_magical%20Key%20Parallax%20Quantum%20wavetracing_it25.png)
+   9.[![Key](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/key_magical%20Key%20Parallax%20Quantum%20wavetracing_it25.png)]
    - iterações 200
    - step_size:  0.1
    - model: wikiart_16384
@@ -222,14 +222,14 @@
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/key_original.png)
    - seed: 1376
 
-  10.[Ring of smoke](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/ring_ring-made-of-smoke%20%20oozing-purple-gas_i200.png)
-    - Iterações: 250
-    - step_size: 0.012
-    - model: wikiart_16384
-    - texts: ring made of smoke | oozing purple gas
-    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/ring_original.jpg)
+  10.[![Ring of smoke](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/ring_ring-made-of-smoke%20%20oozing-purple-gas_i200.png)]
+   - Iterações: 250
+   - step_size: 0.012
+   - model: wikiart_16384
+   - texts: ring made of smoke | oozing purple gas
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/ring_original.jpg)
     
-  11.[Teacup](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/teacup_Mysterious%20hot%20tea%20smoke%20beverage_it100.png)
+  11.[![Teacup](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/teacup_Mysterious%20hot%20tea%20smoke%20beverage_it100.png)]
    - iterações 200
    - step_size:  0.1
    - model: wikiart_16384
@@ -237,7 +237,7 @@
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/teacup_original.jpeg)
    - seed: 1376
     
-  12.[Typewriter](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/typewriter_Typewriter%20Made%20of%20crystals%20Sunrays%20shine%20upon%20it_it50.png)
+  12.[![Typewriter](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Outros/typewriter_Typewriter%20Made%20of%20crystals%20Sunrays%20shine%20upon%20it_it50.png)]
    - iterações 200
    - step_size:  0.1
    - model: wikiart_16384
