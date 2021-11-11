@@ -6,7 +6,7 @@
    - No bloco de 'Settings for this run' você pode colocar as configurações de execução
 
 3.Variaveis
-    - 'text' é o promt de entrada, ou seja, o texto que a AI utilizará para criar ou alterar a imagem
+- 'text' é o promt de entrada, ou seja, o texto que a AI utilizará para criar ou alterar a imagem
     - 'width' e 'height' mudam o tamanho da imagem de saída
     - 'model' deve ser um dos modelos selecionados no bloco 'Selection of models to download'
     - 'images_interval' é representa o intervalo entre as imagens geradas que será exibido em tela (nos arquivos do Colab, existe uma pasta chamada 'Steps' onde todas as imagens geradas ficam
