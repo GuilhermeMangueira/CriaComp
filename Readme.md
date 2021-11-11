@@ -94,3 +94,43 @@
    - texts: stone shield covered in moss
    - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Equipamentos/shield_original.jpg)
 
+## Acessórios
+
+  1.[Belt](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/belt_iron-holographic_it200.png)
+  - Iterações: 200
+  - step_size: 0.03
+  - model: imagenet_16384
+  - texts: belt | iron | holographic
+  - seed: 42
+  - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/belt_original.jpeg)
+
+  2.[Crown of Vines](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/crown_4k-image-of_crown-made-of-branches-and-gemstones_30.png)
+   - Iterações: 200
+   - step_size: 0.01
+   - model: wikiart_16384
+   - texts: 4k image of crown made of branches and gemstones
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/crown_original.jpg)
+   
+   3.[Medallion](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/medallion_Mysterious%20Medallion%20made%20of%20vines%20Wiccan_it25.png)
+   - iterações 200
+   - step_size:  0.1
+   - model: wikiart_16384
+   - texts: Mysterious Medallion made of vines Wiccan 
+   - seed: 1376
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/medallion_original.jpeg)
+
+  4.[Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_4k-image-of-ring-made-of-crystals_it30.jpg)
+   - iterações: 250
+   - step_size: 0.012
+   - model: wikiart_16384
+   - texts: ring made of smoke | oozing purple gas
+   - [init_image](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/ring_original.png)
+   
+   5.[Ring](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Acess%C3%B3rios/transparent-ring_typhoon-made-mist-photoillustration_it125.png)
+   - Iterações: 125
+   - step_size: 0.03
+   - model: imagenet_16384
+   - texts: typhoon ring made of mist photoillustration
+   - init_image: transparent_ring.jpg
+   - seed: 42
+
