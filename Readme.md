@@ -1,7 +1,22 @@
 
+# Passo a passo para Gerar Imagens
+1. Abrir o [colab](https://colab.research.google.com/github/GuilhermeMangueira/CriaComp/blob/main/VQGAN%2BCLIP_(with_pooling)_ipynb%22.ipynb)
+2. Rodar todos os blocos de código 
+    - No bloco de 'Selection of models to download', selecione os modelos que quer baixar, eles serão os que serão usados mais a diante (eles ocupam espaço do HD do colab, evite baixar todos)
+   - No bloco de 'Settings for this run' você pode colocar as configurações de execução
 
+3.Variaveis
+    - 'text' é o promt de entrada, ou seja, o texto que a AI utilizará para criar ou alterar a imagem
+    - 'width' e 'height' mudam o tamanho da imagem de saída
+    - 'model' deve ser um dos modelos selecionados no bloco 'Selection of models to download'
+    - 'images_interval' é representa o intervalo entre as imagens geradas que será exibido em tela (nos arquivos do Colab, existe uma pasta chamada 'Steps' onde todas as imagens geradas ficam
+    - 'init_image' Opcional, caso você insira a AI gerará imagens partindo desta imagem utilizando o promt inserido em 'text'
+    - 'target_images' Opcional, caso você insira a AI gerará imagens tentando chegar nesta imagem utilizando o prompt inserido em 'text'
+    - 'seed' apenas um atributo para poder "randomizar' o resultado, para reproduzir uma geração é necessario o mesmo seed
+    - 'max_iterations' é o numero de imagens que serão geradas no total
+    - 'learning_rate' é o quanto as imagens evoluem entre cada geração. Valores baixos (0.01 por exemplo) geram resultados melhores que valores altos (0.3 por exemplo)
 
-# Processo das Imagens
+# As imagens dessa galeria foram geradas usando as configurações abaixo
 
 ## Armas
   1.[Axe](https://github.com/GuilhermeMangueira/CriaComp/blob/main/Galeria/Armas/axe_lava-axe-Quantum%20wavetracing_it100.png)
